@@ -21,7 +21,7 @@ class MainActivity : ComponentActivity() {
             AndroidStudioKoalaTemplateTheme {
                 Scaffold(modifier = Modifier.fillMaxSize()) { innerPadding ->
                     Greeting(
-                        name = "Prueba_Cambio_Compila",
+                        name = "Android",
                         modifier = Modifier.padding(innerPadding)
                     )
                 }
